@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">q2</string>
+    <string-array name="email">
+        <item>haleema@iiui</item>
+        <item>kashaf@iiui</item>
+        <item>sehrish@iiui</item>
+        <item>saba@iiui</item>
+        <item>sehar@iiui</item>
+        <item>sidra@iiui</item>
+        <item>sara@iiui</item>
+        <item>zara@iiui</item>
+        <item>zoya@iiui</item>
+        <item>zubab@iiui</item>
+    </string-array>
+    <string-array name="pass">
+        <item>haleema</item>
+        <item>kashaf</item>
+        <item>sehrish</item>
+        <item>saba</item>
+        <item>sehar</item>
+        <item>sidra</item>
+        <item>sara</item>
+        <item>zara</item>
+        <item>zoya</item>
+        <item>zubab</item>
+
+    </string-array>
+</resources>
